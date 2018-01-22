@@ -4,27 +4,36 @@ Fill in the text below with your own answers to each question. Each person in yo
 ## About You
 What are your names as they appear on the class roster?
 > Alissa Johnson
+> Eli Salm
 
 What do you prefer to be called?
-> Alissa			
+> Alissa
+> Eli Salm
 
 What are your GitHub usernames?
-> cryptoscape
+>a: cryptoscape
+>e: salmeli
 
 Why are you taking this course?
-> To learn more about operating systems (not a very original answer, I know).
+>a: To learn more about operating systems (not a very original answer, I know).
+
+>e: I need the credits. I don't have any prior knowledge of operating systems. I'm excited tho!
 
 Do you have any concerns about this course?
-> Not scoring well?
+>a: Not scoring well?
+>e: I've heard there are some big concepts that some students struggle to understand.
 
 Look over the course schedule page. Which scheduled topics look most interesting to you?
-> The GPU lab looks neat.
+>a: The GPU lab looks neat.
+>e: Password Cracker!
 
 Do you have any questions about the course?
-> Nope.
+>a: Nope.
+>e: Nay.
 
 Do you have any other questions for me?
-> Also none.
+>a: Also none.
+>e: Naaa
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2018S/CSC213/syllabus/) for course policies.
