@@ -39,19 +39,22 @@ Do you have any other questions for me?
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2018S/CSC213/syllabus/) for course policies.
 
 What work will contribute to your grade in this class?
-> ...
+> Participation - 10%
+> Labs - 50%
+> Project - 25%
+> Assignments - 15%
 
 What happens if you miss a day of class because you are sick or your alarm doesn't go off?
-> ...
+> So, I'm *technically* not required to attend regular class days -- like I won't be penalized. But I have to make sure I ask my classmates what I missed. If I miss a lab day, it's a different story. I can be penalized up to 20% on the lab if I miss class that day, unless I notify you a day in advance about a legitimate commitment. 
 
 What happens if you turn in a lab late?
-> ...
+> I will be penalized a full letter grade for each day they are late.
 
 On what day will you give a presentation on your final project for this course?
-> ...
+> May 16th or May 18th, depending on the order of presentations.
 
 Where can you find our course textbook?
-> ...
+> The textbook is available for free online. It's called "Operating Systems: Three Easy Pieces, by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau" and it's listed on the syllabus.
 
 When are you free during my scheduled office hours?
-> ...
+> On Monday from 11:00-11:45, Wednesday 3:00-4:30, and Friday 3:00-5:00. 
